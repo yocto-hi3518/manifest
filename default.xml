@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch=".."/>
+  
+  <default revision="master" remote="github"/>
+  <project name="meta-hi3518"         path="sources/meta-hi3518"/>
+  <project name="meta-openembedded"   path="sources/meta-openembedded"  revision="rocko"/>
+  <project name="openembedded-core"   path="sources/openembedded-core"  revision="rocko"/>
+  <project name"bitbake"              path="source/bitbake"             revision="1.36"/>
+
+</manifest>
