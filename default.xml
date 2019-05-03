@@ -4,7 +4,7 @@
   
   <default revision="master" remote="github" sync-j="8"/>
   <project name="meta-hi3518"         path="sources/meta-hi3518"/>
-  <project name="meta-openembedded"   path="sources/meta-openembedded"  revision="rocko"/>
+  <project name="meta-openembedded"   path="sources/meta-openembedded"  revision="rocko-uclibc"/>
   <project name="openembedded-core"   path="sources/openembedded-core"  revision="rocko"/>
   <project name="bitbake"             path="sources/bitbake"            revision="1.36"/>
 
